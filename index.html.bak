@@ -74,10 +74,11 @@
         <h2>Related</h2>
 
         <ul>
-          <li><a href="https://www.learnaboutnature.com/mammals/cats/types-of-cat-food/">Types of cat food</a></li>
-          <li><a href="https://www.amazon.com/cat-toys/s?k=cat+toys">Cat toys</a></li>
-          <li><a href="https://spca.bc.ca/faqs/litter-train-cat-kitten/#:~:text=Kittens%20learn%20about%20the%20bathroom,scare%20him%20for%20inappropriate%20elimination.">Litter box training</a></li>
-          <li><a href="https://unionlakepetservices.com/blog/cat-care-for-beginners-7-steps-to-a-great-start">Cat care</a></li>
+          <li><a href="#">Types of cat food</a></li>
+          <li><a href="#">Cat toys</a></li>
+          <li><a href="#">Litter box training</a></li>
+          <li><a href="#">Clicker training</a></li>
+          <li><a href="#">Cat care</a></li>
         </ul>
       </aside>
     </main>
